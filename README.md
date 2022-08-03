@@ -1,2 +1,2 @@
 # Insertion Sort Project
-Kodluyoruz eğitimi kapsamında merge sort projesi
+Kodluyoruz eğitimi kapsamında Insertion Sort projesi
